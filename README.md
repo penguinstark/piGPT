@@ -12,3 +12,8 @@ soon:
   
   (optional) use different wake words for differnt voice assistants
   
+
+first version of voicegpt.py provided by the following guide (with formatting fixes and error handling):
+https://www.opensourceforu.com/2023/03/how-to-convert-chatgpt-into-an-advanced-voice-assistant/
+
+
